@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <kbd> <img src="https://avatars.githubusercontent.com/u/12899635?v=4" width="200" alt="Profile Account Image"/></kbd> 
+  <kbd> <img src="https://github.com/bsaltosDev/bsaltosDev/blob/main/logo.png" width="200" alt="Image Logo"/></kbd> 
 </div>
 
 <div id="badges" align="center">
@@ -18,12 +18,12 @@
 
 I am a Software Developer from Ecuador.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- ⚡ I was working some years with [Genexus](https://www.genexus.com). It’s a Low Code, cross-platform, knowledge representation-based development tool.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/bsaltos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/byron-saltos)
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :zap: I was working some years with [Genexus](https://www.genexus.com). It’s a Low Code, cross-platform, knowledge representation-based development tool.
+- :mailbox: How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/bsaltos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/byron-saltos)
 
 ---
-### 🛠 &nbsp; Languages and Tools :
+### :hammer_and_wrench: &nbsp; Languages and Tools :
 
 <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -42,14 +42,14 @@ I am a Software Developer from Ecuador.
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### :fire: &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bsaltosDev&theme=ligth)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsaltosDev&layout=compact&theme=vision-friendly-ligth)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### ✍️ Blog Posts :
+### :writing_hand: &nbsp; Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Configuracion Dominio GoDaddy-GithubPages](https://bsaltos.dev/config/configuracion-dominio-godaddy-githubpages/)
 <!-- BLOG-POST-LIST:END -->

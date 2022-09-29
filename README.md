@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/12899635?v=4" width="200" alt="Profile Account Image" style="border-radius:50%"/>
+  <kbd> <img src="https://avatars.githubusercontent.com/u/12899635?v=4" width="200" alt="Profile Account Image"/></kbd> 
 </div>
 
 <div id="badges" align="center">
@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=bsaltosDev&style=flat-square&color=blue" alt="">
 </div>
 
-### About Me :
+### :computer: &nbsp; About Me :
 
 I am a Software Developer from Ecuador.
 
@@ -23,7 +23,7 @@ I am a Software Developer from Ecuador.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/bsaltos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/byron-saltos)
 
 ---
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp; Languages and Tools :
 
 <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

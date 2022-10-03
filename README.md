@@ -18,8 +18,10 @@
 
 I am a Software Developer from Ecuador.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web and mobile applications.
 - :zap: I was working some years with [Genexus](https://www.genexus.com). It’s a Low Code, cross-platform, knowledge representation-based development tool.
+- :construction_worker: I am working with Liferay Apps (Angular, JSP, Services and Porlets). 
+- :school: I am learning NodeJS and its libraries and frameworks related to the Backend. Also I am getting advanced topics for the Frontend related with Web and Mobile applications.
 - :mailbox: How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/bsaltos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/byron-saltos)
 
 ---

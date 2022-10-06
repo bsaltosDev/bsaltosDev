@@ -1,10 +1,15 @@
 <div id="header" align="center">
-  <kbd> <img src="https://github.com/bsaltosDev/bsaltosDev/blob/main/logo.png" width="200" alt="Image Logo"/></kbd> 
+  <a href="https://bsaltos.dev">
+    <kbd> <img src="https://github.com/bsaltosDev/bsaltosDev/blob/main/logo.png" width="200" alt="Image Logo Site"/></kbd> 
+  </a>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/byron-saltos">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://bsaltos.dev">
+    <img src="https://img.shields.io/badge/webSite-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Site Badge"/>
   </a>
   <a href="https://twitter.com/ByDev1">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>

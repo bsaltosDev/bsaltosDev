@@ -39,6 +39,8 @@ I am a Software Developer from Ecuador.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
@@ -59,4 +61,5 @@ I am a Software Developer from Ecuador.
 ### :writing_hand: &nbsp; Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Configuracion Dominio GoDaddy-GithubPages](https://bsaltos.dev/config/configuracion-dominio-godaddy-githubpages/)
+- [Cambiar directorio por defecto de docker data en windows (wsl)](https://bsaltos.dev/config/docker/windows/wsl/cambiar-directorio-por-defecto-docker-data-wsl-windows/)
 <!-- BLOG-POST-LIST:END -->

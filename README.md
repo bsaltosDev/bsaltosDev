@@ -53,9 +53,9 @@ I am a Software Developer from Ecuador.
 ---
 
 ### :fire: &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bsaltosDev&theme=ligth)](https://git.io/streak-stats)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=bsaltosDev)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsaltosDev&layout=compact&theme=vision-friendly-ligth)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bsaltosDev&layout=compact&theme=vision-friendly-ligth)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
